@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PONkV72C+wRrOCa8K1St5Rat3yrX9zd/FXDO+WDZ5UC2791M0wyRCvQCLzQblcx6dh9AuLXRnY2tJuGQML27mg==",
+  "dgSpecHash": "vDIA//NXqM4z3exSdbVRw3TwDP7/4hBCFgaQ1+j/HjAEIEUHvMA1E18f7YFgcYMAfyI9eR31GaE+PRNqBqehZA==",
   "success": true,
   "projectFilePath": "/Users/Javlonbek/Projects/ConsoleRabbitMq/ReceiverApp/ReceiverApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/Javlonbek/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/Javlonbek/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/Javlonbek/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
